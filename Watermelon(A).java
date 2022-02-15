@@ -4,7 +4,7 @@ package codeforce;
 import java.util.Scanner;
 
  
-public class CodeForce {
+public class Watermelon {
  
     public static void main(String[] args) {
         
